@@ -1,3 +1,8 @@
-TravelPro.com Webiste
+# TravelPro.com Webiste - Task-1
+Explore the world, book trips of amazing destinations
 
-Hosted Link: - [https://lavkumar-tezo.github.io/task-1/]
+## Technical Skills
+- HTML
+- CSS
+
+##### Website Link: - [click here](https://lavkumar-tezo.github.io/task-1/)
